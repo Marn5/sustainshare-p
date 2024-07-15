@@ -3,5 +3,5 @@
 $x= 'hello';
 $y= "world";
 
-echo"$x&nbsp$y";
+echo"$x." ".$y";
 ?>
