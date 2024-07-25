@@ -13,10 +13,10 @@ $grade ="D";
     $grade ="E";
 
 }else {
-    $grade ="F";{
-        return $grade;
-    }
+    $grade ="F";
 }
+        return $grade;
+
 
 }
 //scores of the students
