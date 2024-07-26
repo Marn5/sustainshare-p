@@ -9,5 +9,3 @@ $password = "password123";
      else {
         echo "Invalid credentials";
     }
-
-
